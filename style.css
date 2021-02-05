@@ -4,3 +4,7 @@
 .second-paragraph {
   font-family:'Courier New', Courier, monospace;
 }
+.p {
+  color: blue;
+  font-family: cursive;
+}
