@@ -1,13 +1,16 @@
 .first-paragraph {
   color:purple;
 }
+
 .second-paragraph {
   font-family:'Courier New', Courier, monospace;
 }
+
 .p {
   color: blue;
   font-family: cursive;
 }
+
 .table {
-  width:25%
+  width:25%;
 }
