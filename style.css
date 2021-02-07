@@ -1,9 +1,9 @@
 .first-paragraph {
-  color:purple;
+  color: purple;
 }
 
 .second-paragraph {
-  font-family:'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .p {
@@ -12,5 +12,5 @@
 }
 
 .table {
-  width:25%;
+  width: 25%;
 }
